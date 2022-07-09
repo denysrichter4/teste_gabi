@@ -11,7 +11,7 @@ public class Teste {
 
    int resultado = primeiro_numero * segundo_numero;
 
-   public void readText(){
+   public static void readText(){
 
    }
 
