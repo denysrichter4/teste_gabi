@@ -11,5 +11,5 @@ public class Teste {
 
    int resultado = primeiro_numero * segundo_numero;
 
-   System.out.println("Digite nota3");
+   //System.out.println("Digite nota3");
 }
