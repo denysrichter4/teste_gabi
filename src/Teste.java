@@ -12,9 +12,8 @@ public class Teste {
    int resultado = primeiro_numero * segundo_numero;
 
    public void readText(){
-
+      System.out.println(resultado);
    }
-
 }
 
 
